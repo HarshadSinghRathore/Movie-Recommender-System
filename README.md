@@ -1,2 +1,3 @@
 # Movie-Recommender-System
-This project uses the concepts of machine learning to design a recommender system. Language used is python and get a dataset required from kaggle
+This projects is built on ML and helps to recommend movies based on the movie you liked before
+
